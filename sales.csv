@@ -1,0 +1,9 @@
+Order_ID,Date,Product,Category,Region,Quantity,Price
+1,2024-01-01,Phone,Electronics,West,1,20000
+2,2024-01-02,Laptop,Electronics,East,2,50000
+3,2024-01-03,Shoes,Fashion,West,3,3000
+4,2024-02-01,Phone,Electronics,North,1,20000
+5,2024-02-05,Watch,Accessories,South,2,5000
+6,2024-03-01,Laptop,Electronics,East,1,50000
+7,2024-03-10,Shoes,Fashion,North,4,3000
+8,2024-03-15,Watch,Accessories,West,2,5000
